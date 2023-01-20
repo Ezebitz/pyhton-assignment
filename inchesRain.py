@@ -1,0 +1,6 @@
+#calculate rainfall in gallons for some number of inches upon one acre of land
+int_str = input("how many inches of rain has fallen")
+int_inches = int(inches_str)
+volume = (int_inches/12)*43560
+gallons = volume*7.48051945
+print (inches_int,"in.rain on one acre is",gallons"gallons")																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				
